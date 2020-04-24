@@ -4,7 +4,6 @@
 //it is like class
 
 var loginpage=require('./POM/LoginPage')
-
 var homePage = require('./Utilities/NavigateToSubmodule')
 var appData=require('./TestData/appData.json')
 
